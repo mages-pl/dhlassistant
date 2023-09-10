@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+#dhlassistant .label
+{
+	color: black;
+}
+#dhlassistant_messages .success
+{
+	background-color: lightgreen;
+	text-align: center;
+	color: #292929;
+	text-shadow: none;
+	font-weight: 500;
+}
+#dhlassistant_messages .error
+{
+	background-color: red;
+}
+.alert {
+	margin: 5px 0;
+}
+
+div#dhlassistant_postnummer > label {
+	color: #000 !important;
+}
